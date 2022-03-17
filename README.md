@@ -21,3 +21,6 @@ This is a simple task management app created with laravel
 - [open project folder in your CLI].
 - [initiate app by simple command (php artisan serve)].
 - [finish]..
+
+## Database
+The SQL file is in the root folder : open you database administrator and import the SQL file 
